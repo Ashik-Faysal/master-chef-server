@@ -1,52 +1,82 @@
 [
   {
     "id": 1,
-    "country": "Bangladeshi",
-    "food_image": "https://images.unsplash.com/photo-1482049016688-2d3e1b311543?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTB8fGZvb2R8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60"
+    "picture": "https://example.com/chef1.jpg",
+    "name": "Alice Smith",
+    "experience": "10 years",
+    "number_of_recipes": 50,
+    "likes": 200,
+    "views": 1000,
+    "description": "Alice Smith is an award-winning chef with 10 years of experience in French cuisine. She is known for her unique and creative dishes that blend traditional French techniques with modern flavors."
   },
   {
     "id": 2,
-    "country": "Canadian",
-    "food_image": "https://images.unsplash.com/photo-1565958011703-44f9829ba187?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8OXx8Zm9vZHxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60"
+    "picture": "https://example.com/chef2.jpg",
+    "name": "John Lee",
+    "experience": "15 years",
+    "number_of_recipes": 80,
+    "likes": 500,
+    "views": 2000,
+    "description": "John Lee is a highly skilled chef with 15 years of experience in Japanese cuisine. He is a master of sushi and other traditional Japanese dishes, and has trained under some of the top chefs in Japan."
   },
   {
     "id": 3,
-    "country": "Korean",
-    "food_image": "https://images.unsplash.com/photo-1532347231146-80afc9e3df2b?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Nnx8a29yZWFuJTIwZm9vZHxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60"
+    "picture": "https://example.com/chef3.jpg",
+    "name": "Maria Rodriguez",
+    "experience": "8 years",
+    "number_of_recipes": 30,
+    "likes": 100,
+    "views": 500,
+    "description": "Maria Rodriguez is a rising star in the world of Mexican cuisine. She has spent years traveling throughout Mexico, learning the secrets of traditional dishes and putting her own spin on them."
   },
   {
     "id": 4,
-    "country": "Afghan",
-    "food_image": "https://images.unsplash.com/photo-1490914327627-9fe8d52f4d90?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MjV8fGNoYWluZXNlJTIwZm9vZHxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60"
+    "picture": "https://example.com/chef4.jpg",
+    "name": "David Kim",
+    "experience": "12 years",
+    "number_of_recipes": 70,
+    "likes": 300,
+    "views": 1500,
+    "description": "David Kim is a Korean-American chef who specializes in fusion cuisine. He combines traditional Korean flavors with other culinary influences to create dishes that are both unique and delicious."
   },
   {
     "id": 5,
-    "country": "French",
-    "food_image": "https://images.unsplash.com/photo-1478369402113-1fd53f17e8b4?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MjF8fGNoYWluZXNlJTIwZm9vZHxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60"
+    "picture": "https://example.com/chef5.jpg",
+    "name": "Maggie Chen",
+    "experience": "7 years",
+    "number_of_recipes": 40,
+    "likes": 150,
+    "views": 800,
+    "description": "Maggie Chen is a Chinese-American chef who has a passion for healthy and flavorful cooking. She focuses on using fresh, seasonal ingredients to create dishes that are both delicious and nutritious."
   },
   {
     "id": 6,
-    "country": "Thai",
-    "food_image": "https://images.unsplash.com/photo-1519915051686-9fe6ee13633e?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MzJ8fGNoYWluZXNlJTIwZm9vZHxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60"
+    "picture": "https://example.com/chef6.jpg",
+    "name": "James Nguyen",
+    "experience": "9 years",
+    "number_of_recipes": 60,
+    "likes": 250,
+    "views": 1200,
+    "description": "James Nguyen is a Vietnamese-American chef who specializes in street food. He is known for his creative and flavorful takes on classic Vietnamese dishes, and has won several awards for his cooking."
   },
   {
     "id": 7,
-    "country": "Australian",
-    "food_image": "https://images.unsplash.com/photo-1473093226795-af9932fe5856?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MjN8fGNoYWluZXNlJTIwZm9vZHxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60"
+    "picture": "https://example.com/chef7.jpg",
+    "name": "Sara Johnson",
+    "experience": "6 years",
+    "number_of_recipes": 20,
+    "likes": 50,
+    "views": 400,
+    "description": "Sara Johnson is a pastry chef with Italian cuisine, and is known for his attention to detail and dedication to using only the highest quality ingredients. Michael is also passionate about teaching and mentoring young chefs, and has trained many successful chefs who have gone on to open their own restaurants."
   },
   {
-    "id": 8,
-    "country": "Mexican",
-    "food_image": "https://images.unsplash.com/photo-1447078806655-40579c2520d6?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8N3x8bWF4aWNhbiUyMGZvb2R8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60"
-  },
-  {
-    "id": 9,
-    "country": "Chinese",
-    "food_image": "https://images.unsplash.com/photo-1503810473512-f64b56827964?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTZ8fGNoYWluZXNlJTIwZm9vZHxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60"
-  },
-  {
-    "id": 10,
-    "country": "Indian",
-    "food_image": "https://images.unsplash.com/photo-1465014925804-7b9ede58d0d7?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mjl8fGNoYWluZXNlJTIwZm9vZHxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60"
+    "id": "8",
+    "picture": "https://example.com/chef8.jpg",
+    "name": "Linda Jones",
+    "experience": "5 years",
+    "num_recipes": 30,
+    "likes": 200,
+    "views": 500,
+    "description": "Linda is a vegetarian chef who specializes in creating delicious and healthy plant-based meals. She believes that food can be both nutritious and delicious, and loves to experiment with different ingredients and flavors to create unique and flavorful vegetarian dishes."
   }
-] 
+]
