@@ -18,9 +18,13 @@ app.get('/categories', (req, res) => {
 });
 
 app.get("/categories/:id", (req, res) => {
-  const id = req.params.id;
-  const selectedCategories = categories.find((n) => n._id === id);
-  res.send(selectedCategories);
+    const id = req.params.id;
+    console.log(id);
+
+    const selectedCategories = categories.find((n) => n.id == id);
+    console.log(selectedCategories);
+    res.send(selectedCategories);
+    
 });
 
 app.get('/blogs', (req, res) => {
