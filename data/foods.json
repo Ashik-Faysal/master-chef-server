@@ -1,0 +1,30 @@
+[
+  {
+    "id": "1",
+    "title": "Pesto Pasta",
+    "image": "https://images.unsplash.com/photo-1567608285969-48e4bbe0d399?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8UGVzdG8lMjBQYXN0YXxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60",
+    "description": "This creamy pasta dish is made with homemade pesto sauce, fresh basil, and Parmesan cheese. It's perfect for a quick and easy dinner.",
+    "tags": ["pasta", "italian", "vegetarian"]
+  },
+  {
+    "id": "2",
+    "title": "Spicy Fried Chicken",
+    "image": "https://images.unsplash.com/photo-1543340904-0b1d843bccda?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8OXx8U3BpY3klMjBGcmllZCUyMENoaWNrZW58ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60",
+    "description": "This crispy fried chicken is coated in a spicy seasoning blend and fried until golden brown. Serve with your favorite dipping sauce for a delicious meal.",
+    "tags": ["chicken", "spicy", "fried"]
+  },
+  {
+    "id": "3",
+    "title": "Shrimp Tacos",
+    "image": "https://images.unsplash.com/photo-1611695500858-e6ac19b1ca55?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NXx8U2hyaW1wJTIwVGFjb3N8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60",
+    "description": "These flavorful shrimp tacos are filled with juicy shrimp, fresh cilantro, and tangy lime juice. They're perfect for a quick and easy weeknight dinner.",
+    "tags": ["tacos", "seafood", "mexican"]
+  },
+  {
+    "id": "4",
+    "title": "Beef Stir-Fry",
+    "image": "https://images.unsplash.com/photo-1668724775591-f50dd8ed65a5?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTR8fEJlZWYlMjBTdGlyJTIwRnJ5fGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60",
+    "description": "This savory beef stir-fry is loaded with tender beef, crisp veggies, and a flavorful sauce. Serve over rice for a delicious and healthy meal.",
+    "tags": ["beef", "stir-fry", "healthy"]
+  }
+]

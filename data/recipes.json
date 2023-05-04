@@ -1,0 +1,26 @@
+ [
+    {
+      "id": 1,
+      "title": "https://images.unsplash.com/photo-1541014741259-de529411b96a?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTJ8fEFwcGV0aXplcnN8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60"
+    },
+    {
+      "id": 2,
+      "title": "Beef",
+      "photoUrl": "https://images.unsplash.com/photo-1615937691194-97dbd3f3dc29?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8QmVlZnxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60"
+    },
+    {
+      "id": 3,
+      "title": "Chicken",
+      "photoUrl": "https://images.unsplash.com/photo-1587593810167-a84920ea0781?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NHx8Q2hpY2tlbnxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60"
+    },
+    {
+      "id": 4,
+      "title": "Vegetarian",
+      "photoUrl": "https://images.unsplash.com/photo-1512621776951-a57141f2eefd?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8VmVnZXRhcmlhbnxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60"
+    },
+    {
+      "id": 5,
+      "title": "Desserts",
+      "photoUrl": "https://images.unsplash.com/photo-1624353365286-3f8d62daad51?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTR8fERlc3NlcnRzfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60"
+    }
+  ]

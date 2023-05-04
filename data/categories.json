@@ -1,7 +1,7 @@
 [
   {
     "id": 1,
-    "picture": "https://example.com/chef1.jpg",
+    "picture": "https://images.unsplash.com/photo-1577219491135-ce391730fb2c?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NXx8Y2hlZnxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60",
     "name": "Alice Smith",
     "experience": "10 years",
     "number_of_recipes": 50,
@@ -11,7 +11,7 @@
   },
   {
     "id": 2,
-    "picture": "https://example.com/chef2.jpg",
+    "picture": "https://images.unsplash.com/photo-1572715376701-98568319fd0b?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8M3x8Y2hlZnxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60",
     "name": "John Lee",
     "experience": "15 years",
     "number_of_recipes": 80,
@@ -21,7 +21,7 @@
   },
   {
     "id": 3,
-    "picture": "https://example.com/chef3.jpg",
+    "picture": "https://plus.unsplash.com/premium_photo-1661778091956-15dbe6e47442?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTN8fGNoZWZ8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60",
     "name": "Maria Rodriguez",
     "experience": "8 years",
     "number_of_recipes": 30,
@@ -31,7 +31,7 @@
   },
   {
     "id": 4,
-    "picture": "https://example.com/chef4.jpg",
+    "picture": "https://images.unsplash.com/photo-1581299894007-aaa50297cf16?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTF8fGNoZWZ8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60",
     "name": "David Kim",
     "experience": "12 years",
     "number_of_recipes": 70,
@@ -41,7 +41,7 @@
   },
   {
     "id": 5,
-    "picture": "https://example.com/chef5.jpg",
+    "picture": "https://images.unsplash.com/photo-1625631980634-397b9e9a73f9?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTF8fGNoZWYlMjBjb29raW5nfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60",
     "name": "Maggie Chen",
     "experience": "7 years",
     "number_of_recipes": 40,
@@ -51,7 +51,7 @@
   },
   {
     "id": 6,
-    "picture": "https://example.com/chef6.jpg",
+    "picture": "https://plus.unsplash.com/premium_photo-1658506988095-885269f2b56e?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8Y2hlZnxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60",
     "name": "James Nguyen",
     "experience": "9 years",
     "number_of_recipes": 60,
@@ -61,7 +61,7 @@
   },
   {
     "id": 7,
-    "picture": "https://example.com/chef7.jpg",
+    "picture": "https://images.unsplash.com/photo-1566554273541-37a9ca77b91f?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTR8fGNoZWZ8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60",
     "name": "Sara Johnson",
     "experience": "6 years",
     "number_of_recipes": 20,
@@ -71,7 +71,7 @@
   },
   {
     "id": "8",
-    "picture": "https://example.com/chef8.jpg",
+    "picture": "https://images.unsplash.com/photo-1595257841889-eca2678454e2?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8OHx8Y2hlZnxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60",
     "name": "Linda Jones",
     "experience": "5 years",
     "num_recipes": 30,
