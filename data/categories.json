@@ -7,6 +7,7 @@
     "number_of_recipes": 50,
     "likes": 200,
     "views": 1000,
+    "ratings":4.7,
     "description": "Alice Smith is an award-winning chef with 10 years of experience in French cuisine. She is known for her unique and creative dishes that blend traditional French techniques with modern flavors.",
     "bio": "Alice Smith is a French cuisine chef with 10 years of experience who creates unique and creative dishes that blend traditional French techniques with modern flavors.After mastering the basics of cooking and refining his skills, James moved to the United States to pursue his culinary dreams. He started working as a line cook in a local Vietnamese restaurant and soon worked his way up to become the head chef. His creativity and dedication to his craft quickly caught the attention of food critics and culinary experts, and he went on to win several awards for his innovative and flavorful takes on classic Vietnamese dishes.",
     "recipeName": [
@@ -35,6 +36,7 @@
     "number_of_recipes": 80,
     "likes": 500,
     "views": 2000,
+    "ratings": 4.2,
     "description": "John Lee is a highly skilled chef with 15 years of experience in American cuisine. He is a master of sushi and other traditional American dishes, and has trained under some of the top chefs in Japan.",
     "bio": "John Lee is a American cuisine chef with 15 years of experience who is a master of sushi and other traditional American dishes, and has trained under some of the top chefs in Japan.After mastering the basics of cooking and refining his skills, James moved to the United States to pursue his culinary dreams. He started working as a line cook in a local Vietnamese restaurant and soon worked his way up to become the head chef. His creativity and dedication to his craft quickly caught the attention of food critics and culinary experts, and he went on to win several awards for his innovative and flavorful takes on classic Vietnamese dishes.",
     "recipeName": [
@@ -63,6 +65,7 @@
     "number_of_recipes": 30,
     "likes": 100,
     "views": 500,
+    "ratings": 4.0,
     "description": "Maria Rodriguez is a rising star in the world of Mexican cuisine. She has spent years traveling throughout Mexico, learning the secrets of traditional dishes and putting her own spin on them.",
     "bio": "Maria Rodriguez is a Mexican cuisine chef with 8 years of experience who has spent years traveling throughout Mexico, learning the secrets of traditional dishes and putting her own spin on them.After mastering the basics of cooking and refining his skills, James moved to the United States to pursue his culinary dreams. He started working as a line cook in a local Vietnamese restaurant and soon worked his way up to become the head chef. His creativity and dedication to his craft quickly caught the attention of food critics and culinary experts, and he went on to win several awards for his innovative and flavorful takes on classic Vietnamese dishes.",
     "recipeName": [
@@ -91,6 +94,7 @@
     "number_of_recipes": 70,
     "likes": 300,
     "views": 1500,
+    "ratings": 5.0,
     "description": "David Kim is a American chef who specializes in fusion cuisine. He combines traditional Korean flavors with other culinary influences to create dishes that are both unique and delicious.",
     "bio": "David Kim is a American chef with 12 years of experience who specializes in fusion cuisine, combining traditional Korean flavors with other culinary influences.After mastering the basics of cooking and refining his skills, James moved to the United States to pursue his culinary dreams. He started working as a line cook in a local Vietnamese restaurant and soon worked his way up to become the head chef. His creativity and dedication to his craft quickly caught the attention of food critics and culinary experts, and he went on to win several awards for his innovative and flavorful takes on classic Vietnamese dishes.",
     "recipeName": [
@@ -119,6 +123,7 @@
     "number_of_recipes": 40,
     "likes": 150,
     "views": 800,
+    "ratings": 3.8,
     "description": "Maggie Chen is a American chef who has a passion for healthy and flavorful cooking. She focuses on using fresh, seasonal ingredients to create dishes that are both delicious and nutritious.",
     "bio": "Maggie Chen is a American chef with 7 years of experience who focuses on using fresh, seasonal ingredients to create healthy and flavorful dishes.After mastering the basics of cooking and refining his skills, James moved to the United States to pursue his culinary dreams. He started working as a line cook in a local Vietnamese restaurant and soon worked his way up to become the head chef. His creativity and dedication to his craft quickly caught the attention of food critics and culinary experts, and he went on to win several awards for his innovative and flavorful takes on classic Vietnamese dishes.",
     "recipeName": [
@@ -147,6 +152,7 @@
     "number_of_recipes": 60,
     "likes": 250,
     "views": 1200,
+    "ratings": 4.4,
     "description": "James Nguyen is a American chef who specializes in street food. He is known for his creative and flavorful takes on classic Vietnamese dishes, and has won several awards for his cooking.",
     "bio": "James Nguyen is a talented American chef with a passion for street food and a remarkable career spanning nine years. Born and raised in Vietnam, James developed a deep appreciation for the vibrant and aromatic flavors of Vietnamese cuisine at a young age. His culinary journey began in his hometown of Hanoi, where he worked as an apprentice in a small family-owned restaurant.After mastering the basics of cooking and refining his skills, James moved to the United States to pursue his culinary dreams. He started working as a line cook in a local Vietnamese restaurant and soon worked his way up to become the head chef. His creativity and dedication to his craft quickly caught the attention of food critics and culinary experts, and he went on to win several awards for his innovative and flavorful takes on classic Vietnamese dishes.",
     "recipeName": [
@@ -175,6 +181,7 @@
     "number_of_recipes": 20,
     "likes": 50,
     "views": 400,
+    "ratings": 4.7,
     "description": "Sara Johnson is a pastry chef with American cuisine, and is known for her attention to detail and dedication to using only the highest quality ingredients. Michael is also passionate about teaching and mentoring young chefs, and has trained many successful chefs who have gone on to open their own restaurants.",
     "bio": "Sara Johnson's passion for pastry began in her grandmother's kitchen, where she spent countless hours learning the secrets of Italian baking. She went on to study at the Culinary Institute of America, where she honed her skills in pastry and developed her own unique style. Sara has a deep respect for tradition and craftsmanship, and is constantly pushing herself to innovate and create new flavors and textures in her desserts.",
     "recipeName": [
@@ -203,6 +210,7 @@
     "num_recipes": 30,
     "likes": 200,
     "views": 500,
+    "ratings": 4.1,
     "description": "Linda is a vegetarian chef who specializes in creating delicious and healthy plant-based meals. She believes that food can be both nutritious and delicious, and loves to experiment with different ingredients and flavors to create unique and flavorful vegetarian dishes.",
     "bio": "Linda Jones has always been passionate about food and its ability to bring people together. After studying nutrition in college, she became interested in vegetarianism and its potential health benefits. She has since dedicated her career to creating flavorful, nutritious plant-based meals that are accessible to everyone. Linda's philosophy is that food should be both delicious and nourishing, and she strives to create meals that are both satisfying and good for you.",
     "recipeName": [
